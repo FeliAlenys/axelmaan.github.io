@@ -503,6 +503,7 @@
   .section-title {
     padding-bottom: 60px;
     position: relative;
+    text-align: justify;
   }
   
   .section-title h2 {
