@@ -716,6 +716,7 @@
     font-weight: 700;
     margin-top: 20px;
     margin-bottom: 20px;
+    text-align: justify;
   }
   
   .resume .resume-item {
@@ -723,6 +724,7 @@
     margin-top: -2px;
     border-left: 2px solid var(--accent-color);
     position: relative;
+    text-align: justify;
   }
   
   .resume .resume-item h4 {
